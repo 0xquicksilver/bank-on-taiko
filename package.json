@@ -1,0 +1,9 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "bank with solidity on taiko network",
+  "main": "dist/index.js",
+  "repository": "https://github.com/0xquicksilver/bank-on-taiko",
+  "author": "0xquicksilver",
+  "license": "MIT"
+}
